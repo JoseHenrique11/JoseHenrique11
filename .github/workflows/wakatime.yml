@@ -12,6 +12,7 @@ jobs:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anuraghazra/waka-readme-stats@master
+      # A linha abaixo foi corrigida para usar a Action correta
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIMEKEY }}
