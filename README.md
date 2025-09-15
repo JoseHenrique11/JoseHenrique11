@@ -8,13 +8,12 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Josehenrique11&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Estatísticas de José Henrique no GitHub"/>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josehenrique11&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
 </div>
-<!--START_SECTION:waka-->
 
-```txt
-Markdown   30 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
+<div align="center">
+  <a href="https://wakatime.com/@Josehenrique11">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Josehenrique11&theme=tokyonight&hide_border=true&title_color=1FDE15&text_color=A1A4A0" />
+  </a>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josehenrique11&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -80,9 +79,9 @@ Markdown   30 mins         █████████████████�
  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
-  <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
+  <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
 </picture>
 
 </div>
