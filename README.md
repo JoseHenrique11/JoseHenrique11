@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá+a+todos,+me+chamo+José+Henrique;Tenho+19+anos;Sou+do+Distrito+Federal;Estou+cursando+ADS;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá+a+todos,+me+chamo+José+Henrique;Tenho+19+anos;Sou+do+Distrito+Federal;Estou+no+4°+semestre+de+ADS;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -73,9 +73,9 @@
  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
-  <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
+  <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/Josehenrique11/Josehenrique11/output/github-snake.svg">
 </picture>
 
 </div>
