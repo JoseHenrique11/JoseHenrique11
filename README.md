@@ -9,6 +9,11 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josehenrique11&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   30 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josehenrique11&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
